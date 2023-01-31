@@ -1,13 +1,14 @@
 # Chloe Locke
 **Email:** chloelocke@mines.edu
 **Address:** Golden, CO
-![/c/Users/Chloe Locke/Pictures/RMV4041.JPG](attachment:_RMV4041.JPG)
+<img src="https://user-images.githubusercontent.com/122388890/215847976-b5b3be61-5223-4b16-b399-757d239c44c0.jpg" width=30%>
 ### Education
 - **Colorado School of Mines, 2021--Present**
 	- B.S Geophysical Engineering
 	- Minor in Space Resources
 - **Oconomowoc High School, 2017--2021**
-	- IB Career Programme ### Experience
+	- IB Career Programme
+ ### Experience
 - **Colorado School of Mines Intramural and Club Sports, 2022--Present**
 	- Lead Supervisor, Referee, Video Productions
 - **VIP Sushi and Hibachi, 2019--Present**
