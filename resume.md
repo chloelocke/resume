@@ -1,7 +1,7 @@
 # Chloe Locke
 **Email:** chloelocke@mines.edu
 **Address:** Golden, CO
-![\_RMV4041.JPG](attachment:_RMV4041.JPG) 
+<![\_RMV4041.JPG](attachment:_RMV4041.JPG)>
 ### Education
 - **Colorado School of Mines, 2021--Present**
 	- B.S Geophysical Engineering
